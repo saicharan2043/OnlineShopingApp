@@ -1,0 +1,41 @@
+/* Write your CSS here */
+.container-total {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-end;
+}
+
+.total-order-text {
+  font-family: Roboto;
+  font-size: 30px;
+  color: #616e7c;
+  margin-bottom: 0px;
+}
+
+.span {
+  color: #171f46;
+  font-size: 35px;
+  font-weight: bold;
+}
+
+.paragraph {
+  font-family: Roboto;
+  font-size: 20px;
+  color: #616e7c;
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+
+.button-checkout {
+  width: 300px;
+  height: 50px;
+  background-color: #0b69ff;
+  border-radius: 8px;
+  border-width: 0px;
+  font-family: Roboto;
+  font-size: 18px;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
