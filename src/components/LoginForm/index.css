@@ -70,8 +70,7 @@
   }
 }
 
-
-.login-register-tab{
+.login-register-tab {
   display: flex;
   width: 100%;
   justify-content: center;
@@ -81,7 +80,7 @@
   padding: 0px;
 }
 
-.login-tab{
+.login-tab {
   width: 300px;
   height: 45px;
   border-width: 0px;
@@ -96,7 +95,7 @@
   cursor: pointer;
 }
 
-.register-tab{
+.register-tab {
   width: 300px;
   height: 45px;
   border-width: 0px;
@@ -111,7 +110,7 @@
   cursor: pointer;
 }
 
-.under-score{
+.under-score {
   border: 2px solid #0b69ff;
   border-top-width: 0px;
   border-left-width: 0px;
