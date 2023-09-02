@@ -95,10 +95,6 @@ class App extends Component {
 
   render() {
     const {cartList} = this.state
-    const objectShiva = {
-      name: 'sai',
-    }
-    console.log(cartList)
 
     return (
       <CartContext.Provider
